@@ -3,6 +3,7 @@
 A Streamlit-based simulation sandbox for exploring how AI-driven agents, sentiment shocks, and options hedging can amplify market stress into systemic risk and flash-crash dynamics.
 
 [![Live App on Render](https://img.shields.io/badge/Render-Live%20App-success?logo=render)](https://market-microstructure-systematic-risk.onrender.com/)
+
 [![Paper](https://img.shields.io/badge/Research-Engineering_the_Future_of_Capital_Markets-A200FF?style=for-the-badge)](https://ijirt.org/publishedpaper/IJIRT199058_PAPER.pdf)
 
 **The applied simulation for the research paper *Engineering the Future of Capital Markets: A Multi-Agent Systemic Risk Analysis of AI in Trading and Banking*.**
@@ -80,6 +81,15 @@ To deploy this project on Render:
 - `simulation_agents.py` — agent behavior logic
 - `data_ingestion.py` — Polygon data integration
 - `options_pricer.py` — option pricing utilities
+
+
+## 📄 Academic Citation
+If you are reviewing this codebase for academic or institutional purposes, please refer to the foundational published research:
+
+* **Chhaya, D. V., & Patel, S. (2026). Engineering In Financial Markets. International Journal of Innovative Research in Technology (IJIRT), 12(11), 11002–11010.**
+
+* **Application:** This repository serves as the live, interactive data model demonstrating the paper's theoretical framework regarding AI-driven microstructure risks.
+
 
 ## License
 
