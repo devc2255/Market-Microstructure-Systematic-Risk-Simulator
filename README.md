@@ -2,7 +2,7 @@
 
 A Streamlit-based simulation sandbox for exploring how AI-driven agents, sentiment shocks, and options hedging can amplify market stress into systemic risk and flash-crash dynamics.
 
-[![Live App on Render](https://img.shields.io/badge/Render-Live%20Status-success?logo=render)](https://market-microstructure-systematic-risk.onrender.com/)
+[![Live App on Render](https://img.shields.io/badge/Render-Live%20App-success?logo=render)](https://market-microstructure-systematic-risk.onrender.com/)
 
 ## What this project does
 
