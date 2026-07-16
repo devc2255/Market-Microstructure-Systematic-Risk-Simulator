@@ -6,7 +6,7 @@ A Streamlit-based simulation sandbox for exploring how AI-driven agents, sentime
 
 [![Paper](https://img.shields.io/badge/Research_Paper-Engineering_the_Future_of_Capital_Markets%3A_A_Multi--Agent_Systemic_Risk_Analysis-A200FF?style=for-the-badge)](https://ijirt.org/publishedpaper/IJIRT199058_PAPER.pdf)
 
-**The applied simulation for the research paper *Engineering the Future of Capital Markets: A Multi-Agent Systemic Risk Analysis of AI in Trading and Banking*.*
+**The applied simulation for the research paper *Engineering the Future of Capital Markets: A Multi-Agent Systemic Risk Analysis of AI in Trading and Banking*.**
 
 
 
