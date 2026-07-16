@@ -21,7 +21,7 @@ from data_ingestion import PolygonMarketData
 
 # Configure Streamlit Page
 st.set_page_config(page_title="Systemic Risk Sandbox", layout="wide", initial_sidebar_state="expanded")
-st.title("🏛️ Multi-Agent Systemic Risk Sandbox")
+st.title("🏛️ Market Microstructure & Systematic Risk Simulator")
 st.markdown("A quantitative microstructure simulation analyzing procyclical AI feedback loops and dynamic delta-hedging cascades.")
 
 # ==========================================
