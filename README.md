@@ -1,4 +1,4 @@
-# Market Microstructure Systematic Risk Simulator
+# Market Microstructure & Systemic Risk Simulator
 
 A Streamlit-based simulation sandbox for exploring how AI-driven agents, sentiment shocks, and options hedging can amplify market stress into systemic risk and flash-crash dynamics.
 
