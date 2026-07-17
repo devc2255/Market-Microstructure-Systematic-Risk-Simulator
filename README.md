@@ -7,7 +7,7 @@ A Streamlit-based simulation sandbox for exploring how AI-driven agents, sentime
 A Streamlit-based simulation sandbox for exploring how AI-driven agents, macroeconomic sentiment shocks, and **Zero-Cost Collar** options hedging can amplify market stress into systemic risk and flash-crash dynamics. Engineered specifically for resource-constrained, zero-cost cloud environments.
 
 
-[![Live Status on Render](https://img.shields.io/badge/Render-Live%20Status-success?logo=render)](https://market-microstructure-systematic-risk-52t2.onrender.com/)
+[![Live Status on Render](https://img.shields.io/badge/Render-Live%20Status-success?logo=render)](https://market-microstructure-systemic-risk.onrender.com)
 
 [![Paper](https://img.shields.io/badge/Research_Paper-Engineering_the_Future_of_Capital_Markets%3A_A_Multi--Agent_Systemic_Risk_Analysis-A200FF?style=for-the-badge)](https://ijirt.org/publishedpaper/IJIRT199058_PAPER.pdf)
 
